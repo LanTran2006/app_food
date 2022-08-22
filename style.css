@@ -112,6 +112,7 @@ section.home {
   width: 80vw;
   top: -5rem;
   right: -10rem;
+  display:none;
 }
 .about .content>span {
   font-family: 'Satisfy', cursive;
