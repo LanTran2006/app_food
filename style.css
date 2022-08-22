@@ -395,6 +395,8 @@ footer {
   section.home {
     flex-direction: column-reverse;
   }
+  .home .image img:last-child {
+    display: none; }
   * {
     font-size: 60%;
   }
